@@ -1,4 +1,4 @@
-# Beginner-Projects
+# Beginner-Projects-Solutions
 For solving of beginner Projects in Python.
 
 **99 bottles.**
